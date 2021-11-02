@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#dependencies
+0.5/node_modules
+8.4 useMemo/node_modules
+9styling-react/node_modules
+
+node_modules/
