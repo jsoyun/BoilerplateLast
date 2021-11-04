@@ -14,7 +14,7 @@ mongoose
       //   useFindAndModify: false,
     }
   )
-  .then(() => console.log("MongoDB Connected.."))
+  .then(() => console.log("MongoDB Connccccccccccected.."))
   .catch((err) => console.log(err));
 
 app.get("/", (req, res) => res.send("Hello World"));
